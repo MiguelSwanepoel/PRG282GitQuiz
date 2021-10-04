@@ -39,7 +39,7 @@ namespace PRG282GitQuiz
             Data.Add("Username: Stig, Name: The Stig, Ocupation: Reckless Driver");
             Data.Add("Username: Beast, Name: Tendai Mtawarira, Ocupation: Prop");
             Data.Add("UserName: Starlord, Name: Peter Quill, Ocupation: Galactic Idiot");
-            /*string fName = "File.txt";
+            string fName = "File.txt";
             if (File.Exists(fName))
             {
                 File.Delete(fName);
@@ -47,7 +47,7 @@ namespace PRG282GitQuiz
             File.Create(fName);
             TextWriter tw = new StreamWriter(fName);
             tw.WriteLine(Data);
-            tw.Close();*\
+            tw.Close();
 
         }
     }
